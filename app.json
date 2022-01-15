@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
+    "name": "gxdfch",
     "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["gxdfch"],
     "env": {
         "UUID": {
             "description": "V2Ray UUID",
@@ -9,6 +9,6 @@
         }
     },
  
-    "repository": "https://github.com/louyour/dan-vmess",
+    "repository": "https://github.com/tdrcyvut/gxdfch",
     "stack": "container"
 }
